@@ -1,6 +1,6 @@
 # combover
 
-> My splendiferous Nuxt.js project
+> My Nuxt.js project
 
 ## Build Setup
 
